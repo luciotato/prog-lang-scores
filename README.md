@@ -83,7 +83,7 @@ Try to remain objective and do not to stretch definitions to benefit one languag
 Language Table
 ---------------
 
-Click on the lang-name to see the language notes.
+Click on the lang-name to see the language notes. Do you agree? not? make a pull request
  
 |lang                    |RE-I |RE-NO|RE-LA|Meta-power|RT-speed|Syntax-flex.| 
 |---------------------   |----:|----:|----:|---------:|-------:|--------:|
